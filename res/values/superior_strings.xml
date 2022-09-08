@@ -47,4 +47,9 @@
     <!--3-Finger screenshot-->
     <string name="three_finger_gesture">Three finger gesture</string>
     <string name="three_finger_gesture_summary">Swipe three finger to screenshot</string>
+
+    <!-- Global Actions -->
+    <string name="global_actions_advanced_reboot_title">Enable advanced restart</string>
+    <string name="global_actions_advanced_reboot_summary">Show options for recovery and bootloader in power menu</string>
+
 </resources>
